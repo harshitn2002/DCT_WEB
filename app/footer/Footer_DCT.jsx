@@ -24,8 +24,8 @@ const Footer = () => {
           </div>
           <div className="address">
             <p>
-              <b> ADDRESS:</b> RAJEEV NAGAR, NEW DELHI <br />
-              INDIA - 110086
+              <b> ADDRESS:</b> Sector 1 , Greater Noida West<br />
+              Gautam Buddha Nagar, </br> Uttar Pradesh, India </br>  Pin : 201306
             </p>
           </div>
           <div className="flex items-center gap-2 mt-[4px]">
